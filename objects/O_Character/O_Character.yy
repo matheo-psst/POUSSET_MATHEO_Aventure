@@ -30,13 +30,15 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[],
+  "properties":[
+    {"$GMObjectProperty":"v1","%Name":"playerlife","filters":[],"listItems":[],"multiselect":false,"name":"playerlife","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"5","varType":1,},
+  ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_MainCharacter",
-    "path":"sprites/S_MainCharacter/S_MainCharacter.yy",
+    "name":"S_MainCharacter_bas",
+    "path":"sprites/S_MainCharacter_bas/S_MainCharacter_bas.yy",
   },
   "spriteMaskId":null,
   "visible":true,
