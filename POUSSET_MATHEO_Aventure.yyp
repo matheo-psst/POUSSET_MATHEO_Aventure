@@ -39,7 +39,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.11.0.179",
+    "IDEVersion":"2024.8.1.171",
   },
   "name":"POUSSET_MATHEO_Aventure",
   "resources":[
@@ -47,8 +47,11 @@
     {"id":{"name":"O_Character","path":"objects/O_Character/O_Character.yy",},},
     {"id":{"name":"O_lifemanager","path":"objects/O_lifemanager/O_lifemanager.yy",},},
     {"id":{"name":"O_spike","path":"objects/O_spike/O_spike.yy",},},
+    {"id":{"name":"O_UI_Butto","path":"objects/O_UI_Butto/O_UI_Butto.yy",},},
     {"id":{"name":"Room_Sombre","path":"rooms/Room_Sombre/Room_Sombre.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Ui","path":"rooms/Ui/Ui.yy",},},
+    {"id":{"name":"Scr_LaunchRoom","path":"scripts/Scr_LaunchRoom/Scr_LaunchRoom.yy",},},
     {"id":{"name":"boss","path":"sprites/boss/boss.yy",},},
     {"id":{"name":"mur_sombre","path":"sprites/mur_sombre/mur_sombre.yy",},},
     {"id":{"name":"mur_verticale","path":"sprites/mur_verticale/mur_verticale.yy",},},
@@ -69,6 +72,9 @@
     {"id":{"name":"S_N18","path":"sprites/S_N18/S_N18.yy",},},
     {"id":{"name":"S_Pike","path":"sprites/S_Pike/S_Pike.yy",},},
     {"id":{"name":"S_Solcarre","path":"sprites/S_Solcarre/S_Solcarre.yy",},},
+    {"id":{"name":"S_TitleScreen","path":"sprites/S_TitleScreen/S_TitleScreen.yy",},},
+    {"id":{"name":"S_UI","path":"sprites/S_UI/S_UI.yy",},},
+    {"id":{"name":"sol_1","path":"sprites/sol_1/sol_1.yy",},},
     {"id":{"name":"Sol_Sombre","path":"sprites/Sol_Sombre/Sol_Sombre.yy",},},
     {"id":{"name":"sol_test_2","path":"sprites/sol_test_2/sol_test_2.yy",},},
     {"id":{"name":"sol_test","path":"sprites/sol_test/sol_test.yy",},},
@@ -84,6 +90,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Ui","path":"rooms/Ui/Ui.yy",},},
     {"roomId":{"name":"Room_Sombre","path":"rooms/Room_Sombre/Room_Sombre.yy",},},
   ],
   "templateType":"game",
