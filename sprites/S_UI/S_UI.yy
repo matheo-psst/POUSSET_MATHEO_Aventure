@@ -45,8 +45,8 @@
   },
   "origin":0,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"Launcher",
+    "path":"folders/Sprites/Launcher.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

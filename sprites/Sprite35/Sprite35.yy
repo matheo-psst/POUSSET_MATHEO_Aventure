@@ -1,27 +1,27 @@
 {
   "$GMSprite":"",
-  "%Name":"S_Cage_bebesang",
+  "%Name":"Sprite35",
   "bboxMode":0,
-  "bbox_bottom":95,
-  "bbox_left":31,
-  "bbox_right":103,
-  "bbox_top":19,
+  "bbox_bottom":159,
+  "bbox_left":0,
+  "bbox_right":190,
+  "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"36b96322-004b-40a7-a525-ed36c430c4fa","name":"36b96322-004b-40a7-a525-ed36c430c4fa","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"a9064f4a-bd29-4306-b6cd-782e03b89230","name":"a9064f4a-bd29-4306-b6cd-782e03b89230","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":128,
+  "height":160,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"e289c8e5-35dc-4569-82d9-bd5cd84ebde8","blendMode":0,"displayName":"default","isLocked":false,"name":"e289c8e5-35dc-4569-82d9-bd5cd84ebde8","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"ab92144a-9cef-4ed5-84ed-af99996bc856","blendMode":0,"displayName":"default","isLocked":false,"name":"ab92144a-9cef-4ed5-84ed-af99996bc856","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"S_Cage_bebesang",
+  "name":"Sprite35",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"S_Cage_bebesang",
+    "%Name":"Sprite35",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"S_Cage_bebesang",
+    "name":"Sprite35",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"36b96322-004b-40a7-a525-ed36c430c4fa","path":"sprites/S_Cage_bebesang/S_Cage_bebesang.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"cb2f0225-af38-46c6-bbc2-69aa8c78ca21","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a9064f4a-bd29-4306-b6cd-782e03b89230","path":"sprites/Sprite35/Sprite35.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"dc08b005-1b85-4b73-82b4-645e30c38748","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":128,
+  "width":192,
 }
