@@ -42,7 +42,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.11.0.179",
+    "IDEVersion":"2024.8.1.171",
   },
   "name":"POUSSET_MATHEO_Aventure",
   "resources":[
@@ -74,6 +74,7 @@
     {"id":{"name":"S_Electrique","path":"sprites/S_Electrique/S_Electrique.yy",},},
     {"id":{"name":"S_Ennemies_Bebe","path":"sprites/S_Ennemies_Bebe/S_Ennemies_Bebe.yy",},},
     {"id":{"name":"S_Etagere_Murale","path":"sprites/S_Etagere_Murale/S_Etagere_Murale.yy",},},
+    {"id":{"name":"S_Etagere","path":"sprites/S_Etagere/S_Etagere.yy",},},
     {"id":{"name":"S_Feuille_1","path":"sprites/S_Feuille_1/S_Feuille_1.yy",},},
     {"id":{"name":"S_Feuille","path":"sprites/S_Feuille/S_Feuille.yy",},},
     {"id":{"name":"S_katrin","path":"sprites/S_katrin/S_katrin.yy",},},
@@ -91,6 +92,8 @@
     {"id":{"name":"S_Rideau","path":"sprites/S_Rideau/S_Rideau.yy",},},
     {"id":{"name":"S_Soins","path":"sprites/S_Soins/S_Soins.yy",},},
     {"id":{"name":"S_Solcarre","path":"sprites/S_Solcarre/S_Solcarre.yy",},},
+    {"id":{"name":"S_Table_1","path":"sprites/S_Table_1/S_Table_1.yy",},},
+    {"id":{"name":"S_Table","path":"sprites/S_Table/S_Table.yy",},},
     {"id":{"name":"S_TitleScreen","path":"sprites/S_TitleScreen/S_TitleScreen.yy",},},
     {"id":{"name":"S_Tuyau_grand","path":"sprites/S_Tuyau_grand/S_Tuyau_grand.yy",},},
     {"id":{"name":"S_UI","path":"sprites/S_UI/S_UI.yy",},},
