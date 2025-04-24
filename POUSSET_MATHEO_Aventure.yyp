@@ -42,13 +42,17 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.1.171",
+    "IDEVersion":"2024.11.0.179",
   },
   "name":"POUSSET_MATHEO_Aventure",
   "resources":[
     {"id":{"name":"chnagment_de_room","path":"objects/chnagment_de_room/chnagment_de_room.yy",},},
     {"id":{"name":"Collider","path":"objects/Collider/Collider.yy",},},
+    {"id":{"name":"O_Arme_Tuyau","path":"objects/O_Arme_Tuyau/O_Arme_Tuyau.yy",},},
     {"id":{"name":"O_Character","path":"objects/O_Character/O_Character.yy",},},
+    {"id":{"name":"O_Ennemie_N18","path":"objects/O_Ennemie_N18/O_Ennemie_N18.yy",},},
+    {"id":{"name":"O_Ennemie_N49","path":"objects/O_Ennemie_N49/O_Ennemie_N49.yy",},},
+    {"id":{"name":"O_Ennemie","path":"objects/O_Ennemie/O_Ennemie.yy",},},
     {"id":{"name":"O_lifemanager","path":"objects/O_lifemanager/O_lifemanager.yy",},},
     {"id":{"name":"O_spike","path":"objects/O_spike/O_spike.yy",},},
     {"id":{"name":"O_UI_Butto","path":"objects/O_UI_Butto/O_UI_Butto.yy",},},
@@ -116,8 +120,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Ui","path":"rooms/Ui/Ui.yy",},},
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room_Sombre","path":"rooms/Room_Sombre/Room_Sombre.yy",},},
   ],
   "templateType":"game",
