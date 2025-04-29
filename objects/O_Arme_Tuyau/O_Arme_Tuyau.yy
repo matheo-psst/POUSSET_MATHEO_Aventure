@@ -6,8 +6,8 @@
   "name":"O_Arme_Tuyau",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Objet",
+    "path":"folders/Objects/Objet.yy",
   },
   "parentObjectId":null,
   "persistent":false,

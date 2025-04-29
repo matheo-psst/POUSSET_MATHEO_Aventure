@@ -2,7 +2,7 @@
   "$GMSprite":"",
   "%Name":"S_Rideau",
   "bboxMode":0,
-  "bbox_bottom":148,
+  "bbox_bottom":150,
   "bbox_left":0,
   "bbox_right":212,
   "bbox_top":3,

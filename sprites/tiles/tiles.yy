@@ -2,7 +2,7 @@
   "$GMSprite":"",
   "%Name":"tiles",
   "bboxMode":0,
-  "bbox_bottom":575,
+  "bbox_bottom":767,
   "bbox_left":64,
   "bbox_right":1215,
   "bbox_top":64,
@@ -14,8 +14,8 @@
   "frames":[
     {"$GMSpriteFrame":"","%Name":"5c40b81a-62e0-45fc-a375-3afac56f2168","name":"5c40b81a-62e0-45fc-a375-3afac56f2168","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
-  "gridX":0,
-  "gridY":0,
+  "gridX":64,
+  "gridY":64,
   "height":2048,
   "HTile":false,
   "layers":[

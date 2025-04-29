@@ -1,10 +1,11 @@
 /// @DnDAction : YoYo Games.Instances.Set_Sprite
 /// @DnDVersion : 1
 /// @DnDHash : 0315ED17
-/// @DnDArgument : "spriteind" "S_MainCharacterBase"
-/// @DnDSaveInfo : "spriteind" "S_MainCharacterBase"
-sprite_index = S_MainCharacterBase;
-image_index = 0;
+/// @DnDArgument : "imageind" "4"
+/// @DnDArgument : "spriteind" "S_MainCharacter_bas"
+/// @DnDSaveInfo : "spriteind" "S_MainCharacter_bas"
+sprite_index = S_MainCharacter_bas;
+image_index = 4;
 
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
@@ -70,3 +71,10 @@ var l50FB2510_0;l50FB2510_0 = keyboard_check(vk_space);if (l50FB2510_0){	///
 	/// @DnDParent : 50FB2510
 	/// @DnDArgument : "speed" "15"
 	speed = 15;}
+
+/// @DnDAction : YoYo Games.Common.Execute_Script
+/// @DnDVersion : 1.1
+/// @DnDHash : 1A62CD59
+/// @DnDArgument : "script" "Sc_Change_Sprite_For_Direction"
+/// @DnDSaveInfo : "script" "Sc_Change_Sprite_For_Direction"
+script_execute(Sc_Change_Sprite_For_Direction);

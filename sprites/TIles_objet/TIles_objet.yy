@@ -2,7 +2,7 @@
   "$GMSprite":"",
   "%Name":"TIles_objet",
   "bboxMode":0,
-  "bbox_bottom":511,
+  "bbox_bottom":592,
   "bbox_left":64,
   "bbox_right":1784,
   "bbox_top":32,
