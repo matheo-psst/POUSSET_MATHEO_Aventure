@@ -12,8 +12,8 @@
   "name":"O_Boss",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Ennemie",
+    "path":"folders/Objects/Ennemie.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -38,8 +38,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_Boss",
-    "path":"sprites/S_Boss/S_Boss.yy",
+    "name":"boss",
+    "path":"sprites/boss/boss.yy",
   },
   "spriteMaskId":null,
   "visible":true,

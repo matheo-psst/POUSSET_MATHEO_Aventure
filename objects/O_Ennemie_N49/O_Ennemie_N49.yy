@@ -6,8 +6,8 @@
   "name":"O_Ennemie_N49",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Ennemie",
+    "path":"folders/Objects/Ennemie.yy",
   },
   "parentObjectId":null,
   "persistent":false,

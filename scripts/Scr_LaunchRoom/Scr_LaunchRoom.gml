@@ -7,6 +7,6 @@ function Scr_launchRoom() {	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 	/// @DnDVersion : 1
 	/// @DnDHash : 26F8408D
 	/// @DnDParent : 2589A140
-	/// @DnDArgument : "room" "Room1"
-	/// @DnDSaveInfo : "room" "Room1"
-	room_goto(Room1);}
+	/// @DnDArgument : "room" "Room_Hopital_Jour"
+	/// @DnDSaveInfo : "room" "Room_Hopital_Jour"
+	room_goto(Room_Hopital_Jour);}

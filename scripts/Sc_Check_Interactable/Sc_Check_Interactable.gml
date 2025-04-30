@@ -24,6 +24,7 @@ function Sc_Check_Interactable() {	/// @DnDAction : YoYo Games.Common.Temp_Var
 	/// @DnDArgument : "target" "interractableTemp"
 	/// @DnDArgument : "target_temp" "1"
 	/// @DnDArgument : "object" "O_Interactable"
+	/// @DnDSaveInfo : "object" "O_Interactable"
 	var l76E65A7B_0 = instance_place(O_Action_Collision.x, O_Action_Collision.y, [O_Interactable]);
 	var interractableTemp = l76E65A7B_0;if ((l76E65A7B_0 > 0)){	/// @DnDAction : YoYo Games.Common.Variable
 		/// @DnDVersion : 1
@@ -31,11 +32,10 @@ function Sc_Check_Interactable() {	/// @DnDAction : YoYo Games.Common.Temp_Var
 		/// @DnDInput : 2
 		/// @DnDParent : 76E65A7B
 		/// @DnDArgument : "expr" "true"
-		/// @DnDArgument : "expr_relative" "1"
 		/// @DnDArgument : "expr_1" "interractableTemp"
 		/// @DnDArgument : "var" "doesCollideWithInteractable"
 		/// @DnDArgument : "var_1" "interractable"
-		doesCollideWithInteractable += true;
+		doesCollideWithInteractable = true;
 		interractable = interractableTemp;}
 
 	/// @DnDAction : YoYo Games.Common.If_Variable
@@ -48,9 +48,15 @@ function Sc_Check_Interactable() {	/// @DnDAction : YoYo Games.Common.Temp_Var
 		/// @DnDVersion : 1
 		/// @DnDHash : 1FDF27D1
 		/// @DnDParent : 5280976C
-		/// @DnDArgument : "code" "/// @description Execute Code$(13_10)with(interractable)$(13_10){$(13_10)	event_user(0);$(13_10)}"
-		/// @description Execute Code
+		/// @DnDArgument : "code" "/// @description Execute C$(13_10)if place_meeting(O_Action_Collision.x, O_Action_Collision.y, O_Lettre_Manager)$(13_10){$(13_10)	O_Lettre_Manager.lu = interractable.lu;$(13_10)	O_Lettre_Manager.file = interractable.file;$(13_10)}$(13_10)with(interractable)$(13_10){$(13_10)	event_user(0);$(13_10)	$(13_10)}"
+		/// @description Execute C
+		if place_meeting(O_Action_Collision.x, O_Action_Collision.y, O_Lettre_Manager)
+		{
+			O_Lettre_Manager.lu = interractable.lu;
+			O_Lettre_Manager.file = interractable.file;
+		}
 		with(interractable)
 		{
 			event_user(0);
+			
 		}}}

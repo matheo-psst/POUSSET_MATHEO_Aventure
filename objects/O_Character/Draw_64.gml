@@ -7,6 +7,5 @@ if(O_Lettre_Manager.lu == true){	/// @DnDAction : YoYo Games.Drawing.Draw_Spri
 	/// @DnDVersion : 1
 	/// @DnDHash : 00A29DA9
 	/// @DnDParent : 54AB1029
-	/// @DnDArgument : "sprite" "boss"
-	/// @DnDSaveInfo : "sprite" "boss"
-	draw_sprite_ext(boss, 0, 0, 0, 1, 1, 0, $FFFFFF & $ffffff, 1);}
+	/// @DnDArgument : "sprite" "O_Lettre_Manager.file"
+	draw_sprite_ext(O_Lettre_Manager.file, 0, 0, 0, 1, 1, 0, $FFFFFF & $ffffff, 1);}

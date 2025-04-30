@@ -6,8 +6,8 @@
   "name":"O_Ennemie_N18",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Ennemie",
+    "path":"folders/Objects/Ennemie.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"S_N18_Bot",
+    "path":"sprites/S_N18_Bot/S_N18_Bot.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
