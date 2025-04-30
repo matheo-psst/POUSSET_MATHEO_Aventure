@@ -1,8 +1,8 @@
 {
   "$GMSprite":"",
   "%Name":"S_Porte",
-  "bboxMode":0,
-  "bbox_bottom":191,
+  "bboxMode":2,
+  "bbox_bottom":120,
   "bbox_left":0,
   "bbox_right":127,
   "bbox_top":0,

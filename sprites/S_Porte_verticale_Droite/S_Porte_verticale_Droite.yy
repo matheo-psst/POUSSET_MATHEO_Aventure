@@ -1,11 +1,11 @@
 {
   "$GMSprite":"",
-  "%Name":"S_Porte_verticale_1",
+  "%Name":"S_Porte_verticale_Droite",
   "bboxMode":0,
   "bbox_bottom":127,
-  "bbox_left":0,
+  "bbox_left":120,
   "bbox_right":127,
-  "bbox_top":120,
+  "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
@@ -21,7 +21,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"883bc290-91b9-4f1f-bf59-9e2e549d4230","blendMode":0,"displayName":"default","isLocked":false,"name":"883bc290-91b9-4f1f-bf59-9e2e549d4230","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"S_Porte_verticale_1",
+  "name":"S_Porte_verticale_Droite",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"S_Porte_verticale",
+    "%Name":"S_Porte_verticale_Droite",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"S_Porte_verticale",
+    "name":"S_Porte_verticale_Droite",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -71,7 +71,7 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"dc4339e3-9b94-4256-bcf6-f9a3e0c7ddea","path":"sprites/S_Porte_verticale_1/S_Porte_verticale_1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"dc4339e3-9b94-4256-bcf6-f9a3e0c7ddea","path":"sprites/S_Porte_verticale_Droite/S_Porte_verticale_Droite.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"514157b2-e6c6-4cf1-b798-f67bdeb65720","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

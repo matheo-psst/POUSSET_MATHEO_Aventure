@@ -4,4 +4,4 @@
 /// @DnDArgument : "imageind" ""
 /// @DnDArgument : "spriteind" "S_Porte_verticale_1"
 /// @DnDSaveInfo : "spriteind" "S_Porte_verticale_1"
-sprite_index = S_Porte_verticale_1;
+sprite_index = S_Porte_verticale_Gauche;

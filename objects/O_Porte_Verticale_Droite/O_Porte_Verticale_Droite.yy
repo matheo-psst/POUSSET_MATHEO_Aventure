@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"O_Porte_Verticale",
+  "%Name":"O_Porte_Verticale_Droite",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":10,"eventType":7,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Character","path":"objects/O_Character/O_Character.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"O_Porte_Verticale",
+  "name":"O_Porte_Verticale_Droite",
   "overriddenProperties":[],
   "parent":{
     "name":"Objet",
@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"S_Porte_verticale",
-    "path":"sprites/S_Porte_verticale/S_Porte_verticale.yy",
+    "name":"S_Porte_verticale_Droite",
+    "path":"sprites/S_Porte_verticale_Droite/S_Porte_verticale_Droite.yy",
   },
   "spriteMaskId":null,
   "visible":true,
