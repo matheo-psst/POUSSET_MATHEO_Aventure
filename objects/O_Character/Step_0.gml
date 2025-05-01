@@ -1,11 +1,10 @@
 /// @DnDAction : YoYo Games.Instances.Set_Sprite
 /// @DnDVersion : 1
 /// @DnDHash : 0315ED17
-/// @DnDArgument : "imageind" "4"
-/// @DnDArgument : "spriteind" "S_MainCharacter_bas"
-/// @DnDSaveInfo : "spriteind" "S_MainCharacter_bas"
-sprite_index = S_MainCharacter_bas;
-image_index = 4;
+/// @DnDArgument : "imageind" ""
+/// @DnDArgument : "spriteind" "S_Character_Bas"
+/// @DnDSaveInfo : "spriteind" "S_Character_Bas"
+sprite_index = S_Character_Bas;
 
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
@@ -40,7 +39,16 @@ var l131EAEA8_0;l131EAEA8_0 = keyboard_check(ord("Z"));if (!l131EAEA8_0){	//
 				/// @DnDVersion : 1
 				/// @DnDHash : 7EE2D9A3
 				/// @DnDParent : 2B823D01
-				speed = 0;}}}}
+				speed = 0;
+			
+				/// @DnDAction : YoYo Games.Instances.Set_Sprite
+				/// @DnDVersion : 1
+				/// @DnDHash : 7CDD210C
+				/// @DnDParent : 2B823D01
+				/// @DnDArgument : "spriteind" "S_Character_Base"
+				/// @DnDSaveInfo : "spriteind" "S_Character_Base"
+				sprite_index = S_Character_Base;
+				image_index = 0;}}}}
 
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
 /// @DnDVersion : 1

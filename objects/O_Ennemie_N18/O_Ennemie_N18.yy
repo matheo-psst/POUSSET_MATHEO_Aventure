@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"O_Ennemie_N18",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"O_Ennemie_N18",
   "overriddenProperties":[],
@@ -26,10 +28,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
-    "name":"S_N18_Bot",
-    "path":"sprites/S_N18_Bot/S_N18_Bot.yy",
+    "name":"S_N18_Bas",
+    "path":"sprites/S_N18_Bas/S_N18_Bas.yy",
   },
   "spriteMaskId":null,
   "visible":true,

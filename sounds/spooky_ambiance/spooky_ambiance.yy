@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":138.31834,
+  "duration":138.31837,
   "name":"spooky_ambiance",
   "parent":{
     "name":"Sounds",
