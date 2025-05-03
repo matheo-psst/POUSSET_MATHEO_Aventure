@@ -1,12 +1,14 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 097C7103
+/// @DnDHash : 5932E617
 /// @DnDArgument : "expr" "false"
 /// @DnDArgument : "var" "attack"
 attack = false;
 
-/// @DnDAction : YoYo Games.Instances.Color_Sprite
+/// @DnDAction : YoYo Games.Instances.Set_Sprite
 /// @DnDVersion : 1
-/// @DnDHash : 375E04B6
-image_blend = $FFFFFFFF & $ffffff;
-image_alpha = ($FFFFFFFF >> 24) / $ff;
+/// @DnDHash : 74A137F6
+/// @DnDArgument : "spriteind" "S_test"
+/// @DnDSaveInfo : "spriteind" "S_test"
+sprite_index = S_test;
+image_index = 0;

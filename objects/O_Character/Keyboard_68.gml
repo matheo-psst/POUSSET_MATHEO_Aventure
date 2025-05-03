@@ -3,3 +3,9 @@
 /// @DnDHash : 7B18747F
 /// @DnDArgument : "direction" "0"
 direction = 0;
+
+/// @DnDAction : YoYo Games.Movement.Set_Speed
+/// @DnDVersion : 1
+/// @DnDHash : 0F839A2D
+/// @DnDArgument : "speed" "5"
+speed = 5;

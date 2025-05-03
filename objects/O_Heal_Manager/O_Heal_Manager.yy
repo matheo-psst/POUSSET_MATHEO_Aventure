@@ -1,18 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"O_Ennemie_N18",
-  "eventList":[],
+  "%Name":"O_Heal_Manager",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"O_Ennemie_N18",
+  "name":"O_Heal_Manager",
   "overriddenProperties":[],
   "parent":{
-    "name":"Ennemie",
-    "path":"folders/Objects/Ennemie.yy",
+    "name":"managers",
+    "path":"folders/Objects/managers.yy",
   },
-  "parentObjectId":{
-    "name":"O_Ennemie_Manager",
-    "path":"objects/O_Ennemie_Manager/O_Ennemie_Manager.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"S_N18_Bas",
-    "path":"sprites/S_N18_Bas/S_N18_Bas.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

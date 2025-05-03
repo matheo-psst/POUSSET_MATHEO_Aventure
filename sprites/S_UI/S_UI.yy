@@ -21,6 +21,7 @@
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"54a5426f-1e51-4d4e-a002-bea4da0a5f8e","blendMode":0,"displayName":"default","isLocked":false,"name":"54a5426f-1e51-4d4e-a002-bea4da0a5f8e","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"abb961af-90f4-4307-a694-446eb9cacc6b","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"abb961af-90f4-4307-a694-446eb9cacc6b","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"S_UI",
   "nineSlice":{
