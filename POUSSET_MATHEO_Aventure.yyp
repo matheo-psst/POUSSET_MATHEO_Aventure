@@ -48,7 +48,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.13.0.190",
+    "IDEVersion":"2024.13.1.193",
   },
   "name":"POUSSET_MATHEO_Aventure",
   "resources":[
@@ -161,6 +161,7 @@
     {"id":{"name":"Sprite55","path":"sprites/Sprite55/Sprite55.yy",},},
     {"id":{"name":"Sprite62","path":"sprites/Sprite62/Sprite62.yy",},},
     {"id":{"name":"Sprite65","path":"sprites/Sprite65/Sprite65.yy",},},
+    {"id":{"name":"Sprite70","path":"sprites/Sprite70/Sprite70.yy",},},
     {"id":{"name":"TIles_objet","path":"sprites/TIles_objet/TIles_objet.yy",},},
     {"id":{"name":"TIles_Sombre","path":"sprites/TIles_Sombre/TIles_Sombre.yy",},},
     {"id":{"name":"tiles","path":"sprites/tiles/tiles.yy",},},
